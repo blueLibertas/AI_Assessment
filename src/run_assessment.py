@@ -1,9 +1,9 @@
 import prompt_final_CoT_4_1 as CoT4
-import prompt_final_CoT_5mini as CoT5
+import prompt_final_CoT_5 as CoT5
 import prompt_final_nonCoT_4_1 as nCoT4
-import prompt_final_nonCoT_5mini as nCoT5
+import prompt_final_nonCoT_5 as nCoT5
 import prompt_final_SR_4_1 as SR4
-import prompt_final_SR_5mini as SR5
+import prompt_final_SR_5 as SR5
 import os
 import pandas as pd
 
